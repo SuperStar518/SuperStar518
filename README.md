@@ -1,7 +1,7 @@
 ### Hi everyone, Success is in your hand 👋
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/19618859?v=4">
+<img src="https://github.com/SuperStar518/SuperStar518/blob/main/logo.png">
 </p>
 
 <h2 align="center">Who is SuperStar🥇?</h2>

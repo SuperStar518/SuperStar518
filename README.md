@@ -45,9 +45,6 @@
 <p align="center">
 <a href="mailto:robbie626827@gmail.com">Email to SuperStar518</a>
 </p>
-<p align="center">
-<a href="https://join.skype.com/invite/yOOcccee3Glq">Skype to SuperStar518</a>
-</p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 <!--

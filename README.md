@@ -4,31 +4,6 @@
 <img src="https://github.com/SuperStar518/SuperStar518/blob/main/avatar.png">
 </p>
 
-<h2 align="center">Who is SuperStar🥇?</h2>
-<p>
-Passionated and capable developer in Nodejs and Python development. I am trying to be more excellent developer.</P>
-
-
-<h3>🏆 Github Profile Trophy</h3>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SuperStar518&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
-</p>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SuperStar518&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-</p>
-<p align="center">
-  <img alt="SuperStar518's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperStar518&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
-
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Passionate+business+partner;Talented+react%2Fvue+frontend+engineer;Experienced+nodejs+backend+engineer;Honest+smart+contract+developer;" />
-</p>
-
-### Skills
-- 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Ionic
-- 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nestjs
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
-- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Java
-
 ### Tools
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="45" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
